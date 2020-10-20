@@ -1,2 +1,2 @@
 # WhateverClass
-Fiules for whatevre
+Files for whatever class
